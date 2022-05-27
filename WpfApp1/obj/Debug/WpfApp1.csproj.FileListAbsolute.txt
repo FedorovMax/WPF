@@ -1,0 +1,28 @@
+C:\Users\Максим\Desktop\Новая папка\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Максим\Desktop\Новая папка\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Максим\Desktop\Новая папка\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Максим\Desktop\Новая папка\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Максим\Desktop\Новая папка\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Максим\Desktop\Новая папка\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Максим\Desktop\Новая папка\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Максим\Desktop\Новая папка\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Максим\Desktop\Новая папка\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Максим\Desktop\Новая папка\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Максим\Desktop\Новая папка\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Максим\Desktop\Новая папка\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Максим\Desktop\Новая папка\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Максим\Desktop\Новая папка\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Рабочий стол\Project\Новая папка\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Рабочий стол\Project\Новая папка\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Рабочий стол\Project\Новая папка\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Рабочий стол\Project\Новая папка\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Рабочий стол\Project\Новая папка\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Рабочий стол\Project\Новая папка\WpfApp1\obj\Debug\App.g.cs
+C:\Рабочий стол\Project\Новая папка\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Рабочий стол\Project\Новая папка\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Рабочий стол\Project\Новая папка\WpfApp1\obj\Debug\MainWindow.baml
+C:\Рабочий стол\Project\Новая папка\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Рабочий стол\Project\Новая папка\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Рабочий стол\Project\Новая папка\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Рабочий стол\Project\Новая папка\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Рабочий стол\Project\Новая папка\WpfApp1\obj\Debug\WpfApp1.pdb
